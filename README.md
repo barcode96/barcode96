@@ -4,7 +4,7 @@
 
 📫 **Contact** </br>
 <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/>
-BARCODE#1111
+<BARCODE#1111>
 
 🔧 **Use Code Language** </br>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/>
