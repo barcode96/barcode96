@@ -3,8 +3,8 @@
 ![Barcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=barcode96&show_icons=true&theme=blue-green)
 
 📫 **Contact** </br>
-<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/>
-<BARCODE#1111>
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/></br>
+**BARCODE#1111**
 
 🔧 **Use Code Language** </br>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/>
