@@ -1,6 +1,6 @@
 # Hello I'm **BARCODE**
 
-![Barcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=barcode96&show_icons=true&theme=nightowl)
+![Barcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=barcode96&show_icons=true&theme=chartreuse-dark)
 
 📫 **Contact** </br>
 <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/></br>
