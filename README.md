@@ -1,9 +1,8 @@
 # Hello I'm **BARCODE**
 
-![Domi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qazplm5602&show_icons=true&theme=blue-green)
+![Barcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=barcode96&show_icons=true&theme=blue-green)
 
-📫 **Domi Contact** </br>
-<a href="http://domi.kr/" target="_blank"><img src="https://img.shields.io/badge/domiSite-ABF200?style=flat-square&logo=HomeAdvisor&logoColor=000"/></a>
+📫 **Contact** </br>
 <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/>(discord : BARCODE#1111)
 
 🔧 **Use Code Language** </br>
